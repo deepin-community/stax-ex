@@ -1,0 +1,7 @@
+
+org.apache.maven.plugins maven-enforcer-plugin * * * *
+org.apache.maven.plugins maven-release-plugin * * * *
+org.codehaus.mojo buildnumber-maven-plugin * * * *
+org.glassfish.copyright glassfish-copyright-maven-plugin * * * *
+org.glassfish.findbugs findbugs * * * *
+javax.xml.stream stax-api * * * *

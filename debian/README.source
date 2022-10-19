@@ -1,0 +1,12 @@
+Information about stax-ex
+------------------------------
+
+This package was debianized using the mh_make command
+from the maven-debian-helper package.
+
+The build system uses Maven but prevents it from downloading
+anything from the Internet, making the build compliant with
+the Debian policy.
+
+Upstream does not provide a proper source tarball, so it's
+created with 'debian/rules get-orig-source'.
